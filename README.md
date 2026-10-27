@@ -12,6 +12,8 @@ I optimized the settings as instructed, and fixed the Port numbers and IPv4 addr
 <img width="1341" height="576" alt="image" src="https://github.com/user-attachments/assets/cbbbca50-8f22-491d-bee3-a18571d1b4bf" />
 
 And then I changed the Network settings
+<img width="930" height="612" alt="image" src="https://github.com/user-attachments/assets/b1da3f3c-8474-4dcd-a45f-e2cab7acb862" />
+
 <img width="775" height="514" alt="image" src="https://github.com/user-attachments/assets/0055e8d8-6f57-4a52-b3ac-b76b29b0090b" />
 
 And fixed the shared folders
