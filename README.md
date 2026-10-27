@@ -16,3 +16,6 @@ And then I changed the Network settings
 
 And fixed the shared folders
 <img width="823" height="535" alt="image" src="https://github.com/user-attachments/assets/f81e74bd-b88e-4a67-84d4-c57df03c1145" />
+
+
+I have completed Task 1 of Week 1 of The NETWORKWALKS Internship
